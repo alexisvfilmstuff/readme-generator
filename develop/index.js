@@ -59,9 +59,9 @@ let testData = {
   installation: 'node and npm',
   usage: 'quick creation of readme project files',
   test: 'follow prompts in command',
-  contibutions: 'message me on Github',
+  contibute: 'message me on Github',
   license: 'MIT',
-  username: 'alexisvfilmstuff',
+  github: 'alexisvfilmstuff',
   email: 'alexisvfilmstuff@gmail.com'
 }
 
