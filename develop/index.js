@@ -54,15 +54,15 @@ const questions = [
 ];
 
 let testData = {
-  github: "alexisvfilmstuff",
-  email: "alexisvfilmstuff@gmail.com",
-  title: 'readme generator',
-  description: 'it renders a readme file ',
+  title: 'readme Generator',
+  description: 'it generates a readme file',
+  installation: 'node and npm',
+  usage: 'quick creation of readme project files',
+  test: 'follow prompts in command',
+  contibutions: 'message me on Github',
   license: 'MIT',
-  installation: 'node and inquirer',
-  test: 'follow prompts',
-  usage: 'save time creating a readme file',
-  contibutions: 'message me on github',
+  username: 'alexisvfilmstuff',
+  email: 'alexisvfilmstuff@gmail.com'
 }
 
 // function to write README file

@@ -12,35 +12,30 @@ ${data.description}
 
 * [License](#license)
 
-* [Contributing](#contributing)
+* [Contribute](#contribute)
 
-* [Tests](#tests)
-
-* [Questions](#questions)
+* [Test](#test)
 
 ## Installation
 
-To install the dependencies for this application run ${data.installation}
+To install the dependencies for this application, install ${data.installation}
 
 ## Usage
 
-To install the dependencies for this application run ${data.usage}
+The usage of this project is to ${data.usage}
 
 ## License
 
-To install the dependencies for this application run ${data.license}
+The project license is ${data.license}
 
-## Contributing
+## Contribute
 
-To install the dependencies for this application run ${data.contributing}
+To contribute this application ${data.contribute}
 
 ## Tests
 
-To install the dependencies for this application run ${data.test}
+To test the dependencies for this application run the ${data.test}
 
-## Questions
-
-To install the dependencies for this application run ${data.questions}
 `;
 }
 

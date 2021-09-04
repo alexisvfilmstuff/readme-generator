@@ -1,6 +1,6 @@
-# Goodreadme
+# read-me generator
 ## description
-somethingsomething
+quick easy readme generator
 
 ## Table of Contents
 
@@ -10,19 +10,17 @@ somethingsomething
 
 * [License](#license)
 
-* [Contributing](#contributing)
+* [Contribute](#contribute)
 
-* [Tests](#tests)
-
-* [Questions](#questions)
+* [Test](#test)
 
 ## Installation
 
-To install the dependencies for this application run npm and inquierer
+To install the dependencies for this application run npm 
 
 ## Usage
 
-To install the dependencies for this application run its easy way to make readmes
+To install the dependencies for this application run must install node and requirer / inquirer 
 
 ## License
 
@@ -30,12 +28,9 @@ To install the dependencies for this application run MIT
 
 ## Contributing
 
-To install the dependencies for this application run undefined
+To install the dependencies for this application run message me on github
 
 ## Tests
 
-To install the dependencies for this application run by prompts
+To install the dependencies for this application run prompt commands
 
-## Questions
-
-To install the dependencies for this application run undefined
