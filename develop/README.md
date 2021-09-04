@@ -1,8 +1,12 @@
-# read-me generator
+# readMe generator
 ## description
-quick easy readme generator
+quick and easy readMe file
 
 ## Table of Contents
+
+* [Github](#github)
+
+* [Email](#email)
 
 * [Installation](#installation)
 
@@ -14,23 +18,31 @@ quick easy readme generator
 
 * [Test](#test)
 
+## Github
+
+Project creator github: alexisvfilmstuff
+
+## Email
+
+Project creator email: alexisvfilmstuff@gmail.com
+
 ## Installation
 
-To install the dependencies for this application run npm 
+To install the dependencies for this application, install npm and git
 
 ## Usage
 
-To install the dependencies for this application run must install node and requirer / inquirer 
+The usage of this project is to its a quick way to make readMe files for project repositories 
 
 ## License
 
-To install the dependencies for this application run MIT
+The project license is MIT
 
-## Contributing
+## Contribute
 
-To install the dependencies for this application run message me on github
+To contribute this application contact me on github
 
 ## Tests
 
-To install the dependencies for this application run prompt commands
+To test the dependencies for this application run the using node and prompts
 

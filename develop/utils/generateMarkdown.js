@@ -6,6 +6,10 @@ ${data.description}
 
 ## Table of Contents
 
+* [Github](#github)
+
+* [Email](#email)
+
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -15,6 +19,14 @@ ${data.description}
 * [Contribute](#contribute)
 
 * [Test](#test)
+
+## Github
+
+Project creator github: ${data.github}
+
+## Email
+
+Project creator email: ${data.email}
 
 ## Installation
 
