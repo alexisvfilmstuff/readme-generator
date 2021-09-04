@@ -1,6 +1,6 @@
-# readMe generator
+# readMe file generator
 ## description
-quick and easy readMe file
+quick and easy readMe
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ To install the dependencies for this application, install npm and git
 
 ## Usage
 
-The usage of this project is to its a quick way to make readMe files for project repositories 
+The usage of this project is to its a quick and easy way to make repository readMe
 
 ## License
 
@@ -44,5 +44,5 @@ To contribute this application contact me on github
 
 ## Tests
 
-To test the dependencies for this application run the using node and prompts
+To test the dependencies for this application run the node and npm
 
