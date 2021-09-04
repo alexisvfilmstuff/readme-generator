@@ -53,6 +53,18 @@ const questions = [
   },
 ];
 
+let testData = {
+  github: "alexisvfilmstuff",
+  email: "alexisvfilmstuff@gmail.com",
+  title: 'readme generator',
+  description: 'it renders a readme file ',
+  license: 'MIT',
+  installation: 'node and inquirer',
+  test: 'follow prompts',
+  usage: 'save time creating a readme file',
+  contibutions: 'message me on github',
+}
+
 // function to write README file
 function writeToFile(fileName, data) {
   return fs.writeFileSync(path.join(process.cwd(), fileName), data)
